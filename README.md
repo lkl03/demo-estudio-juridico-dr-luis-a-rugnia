@@ -1,2 +1,7 @@
-# demo-estudio-juridico-dr-luis-a-rugnia
-Demo web para Estudio Juridico Dr. Luis A. RUGNIA — diseñada por eterlab.
+# Estudio Juridico Dr. Luis A. RUGNIA
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
